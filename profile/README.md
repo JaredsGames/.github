@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--
+This is a landing page for my game organziation 🙂.
+All of these are archives of work I did in the Fall of 2021 at California State University Fullerton.
+I am not currently accepting pull requests to improve these projects; I have no further interest.
 
-**Here are some ideas to get you started:**
+## Table of Contents
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Space Invaders](https://github.com/JaredsGames/SpaceInvaders)
+- [Snake](https://github.com/JaredsGames/Snake)
+- [Pig](https://github.com/JaredsGames/Pig)
+- [Upper Bound](https://github.com/JaredsGames/UpperBound)
