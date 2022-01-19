@@ -6,7 +6,7 @@ I am not currently accepting pull requests to improve these projects; I have no 
 
 ## Table of Contents
 
-- [Space Invaders](https://github.com/JaredsGames/SpaceInvaders)
-- [Snake](https://github.com/JaredsGames/Snake)
-- [Pig](https://github.com/JaredsGames/Pig)
-- [Upper Bound](https://github.com/JaredsGames/UpperBound)
+- [Space Invaders](https://github.com/JaredsGames/SpaceInvaders) 👽
+- [Snake](https://github.com/JaredsGames/Snake) 🐍
+- [Pig](https://github.com/JaredsGames/Pig) 🐷
+- [Upper Bound](https://github.com/JaredsGames/UpperBound) ⏫
